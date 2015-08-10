@@ -52,10 +52,6 @@ Debug tests
 JASMINE_BROWSER=PhantomJS DEBUG=1 MOCHA_DEBUG=1 JASMINE_DEBUG=1 VELOCITY_DEBUG=1 VELOCITY_DEBUG_MIRROR=1 meteor
 ```
 
-## Test logs
-
-Logs are located in `.meteor/local/log/`
-
 # Included Packages
 
 - [kadira:flow-router](https://atmospherejs.com/kadira/flow-router) - Routing at its finest
@@ -66,8 +62,6 @@ Logs are located in `.meteor/local/log/`
 - [zimme:active-route](https://atmospherejs.com/zimme/active-route) - Simple template helpers to determine active routes
 - [arillo:flow-router-helpers](https://atmospherejs.com/fortawesome/fontawesome) - Flow Router helpers
 - [sanjo:jasmine](https://atmospherejs.com/sanjo/jasmine) - Jasmine tests
-- [velocity:html-reporter](https://atmospherejs.com/velocity/html-reporter) - Velocity HTML test reporter
-- [velocity:console-reporter](https://atmospherejs.com/velocity/console-reporter) - Velocity console test reporter
 
 # Recommended Packages
 
